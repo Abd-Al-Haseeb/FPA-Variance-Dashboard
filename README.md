@@ -25,4 +25,4 @@ Executed standard FP&A calculations with built-in structural safeguards.
 
 ## 📂 Repository Contents
 * `FPA_Variance_Dashboard.xlsx`: The interactive Excel model.
-* `FP&A_Variance_Analysis_Model.csv`: The raw Kaggle dataset used for the project.
+* `fpa_variance_data_monthly.csv`: The raw Kaggle dataset used for the project.
